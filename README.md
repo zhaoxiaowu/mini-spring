@@ -2,7 +2,7 @@
 
 ## 实现思路
 
-1. ![配置阶段](https://gitee.com/tostringcc/blog/raw/master/2020/24958106-372005336e681d15.png)
+![配置阶段](https://gitee.com/tostringcc/blog/raw/master/2020/24958106-372005336e681d15.png)
 
 ## 思考
 
